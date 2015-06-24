@@ -1,0 +1,68 @@
+[
+	{
+		"cleaner_id": 1,
+		"week_day": 1,
+		"hour_from": "10:00",
+		"hour_to": "16:00"
+	},
+	{
+		"cleaner_id": 1,
+		"week_day": 1,
+		"hour_from": "18:00",
+		"hour_to": "22:00"
+	},
+	{
+		"cleaner_id": 1,
+		"week_day": 2,
+		"hour_from": "14:00",
+		"hour_to": "19:00"
+	},
+	{
+		"cleaner_id": 2,
+		"week_day": 2,
+		"hour_from": "12:00",
+		"hour_to": "15:00"
+	},
+	{
+		"cleaner_id": 3,
+		"week_day": 1,
+		"hour_from": "10:00",
+		"hour_to": "14:00"
+	},
+	{
+		"cleaner_id": 4,
+		"week_day": 3,
+		"hour_from": "10:00",
+		"hour_to": "16:00"
+	},
+	{
+		"cleaner_id": 4,
+		"week_day": 4,
+		"hour_from": "09:00",
+		"hour_to": "17:00"
+	},
+	{
+		"cleaner_id": 5,
+		"week_day": 1,
+		"hour_from": "10:00",
+		"hour_to": "14:00"
+	},
+	{
+		"cleaner_id": 6,
+		"week_day": 3,
+		"hour_from": "06:00",
+		"hour_to": "14:00"
+	},
+	{
+		"cleaner_id": 7,
+		"week_day": 3,
+		"hour_from": "07:00",
+		"hour_to": "14:00"
+	},
+	{
+		"cleaner_id": 7,
+		"week_day": 7,
+		"hour_from": "10:00",
+		"hour_to": "14:00"
+	}
+]
